@@ -38,10 +38,6 @@ using namespace glm;
 bool deferred = true;
 bool aoMode = true;
 
-// sorry about the globals my brothers im going for speed ;)
-// fpscam fcam;
-// float lastX, lastY;
-
 class ssbo_data
 {
 public:
