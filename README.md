@@ -6,7 +6,7 @@ Done as part of CSC 572, a graduate class at Cal Poly SLO, I implemented a proje
 
 This is one of my favorite projects and I learned probably the most about the render pipeline while doing this project.
 
-[Oren Erlich](https://www.linkedin.com/in/orenerlich/overlay/contact-info/) helped with denoising the scene and we used his deferred rendering scene as a jumping point for the project. He did a lot of work on this topic for his senior project in school in DirectX and compared his results to other hybrid raytracing global illumination techniques.
+[Oren Erlich](https://www.linkedin.com/in/orenerlich/overlay/contact-info/) helped with denoising the scene and we used his deferred rendering scene as a jumping point for the project. After this project, he did work on this topic for his senior project in DirectX and compared his results to other hybrid raytracing global illumination techniques.
 
 ## Voxelization of the scene
 
